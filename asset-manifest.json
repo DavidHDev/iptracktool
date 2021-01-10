@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iptracktool/static/css/main.cc0741a6.chunk.css",
+    "main.js": "/iptracktool/static/js/main.9abcc218.chunk.js",
+    "main.js.map": "/iptracktool/static/js/main.9abcc218.chunk.js.map",
+    "runtime-main.js": "/iptracktool/static/js/runtime-main.994417e6.js",
+    "runtime-main.js.map": "/iptracktool/static/js/runtime-main.994417e6.js.map",
+    "static/css/2.e9be8fff.chunk.css": "/iptracktool/static/css/2.e9be8fff.chunk.css",
+    "static/js/2.3ec4af9d.chunk.js": "/iptracktool/static/js/2.3ec4af9d.chunk.js",
+    "static/js/2.3ec4af9d.chunk.js.map": "/iptracktool/static/js/2.3ec4af9d.chunk.js.map",
+    "index.html": "/iptracktool/index.html",
+    "static/css/2.e9be8fff.chunk.css.map": "/iptracktool/static/css/2.e9be8fff.chunk.css.map",
+    "static/css/main.cc0741a6.chunk.css.map": "/iptracktool/static/css/main.cc0741a6.chunk.css.map",
+    "static/js/2.3ec4af9d.chunk.js.LICENSE.txt": "/iptracktool/static/js/2.3ec4af9d.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/iptracktool/static/media/Eva-Icons.f6e26bbd.eot",
+    "static/media/contentbox.scss": "/iptracktool/static/media/map.e01038a7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.994417e6.js",
+    "static/css/2.e9be8fff.chunk.css",
+    "static/js/2.3ec4af9d.chunk.js",
+    "static/css/main.cc0741a6.chunk.css",
+    "static/js/main.9abcc218.chunk.js"
+  ]
+}
